@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+type: software
+authors:
+  - family-names: Melek
+    given-names: Mesut
+    affiliation: Gumushane University
+  - family-names: Melek
+    given-names: Negin
+title: "Golden Distance — Python Implementation"
+version: 1.0.0
+date-released: 2026-06-22
+url: "https://github.com/KULLANICI_ADIN/golden-distance"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Melek
+      given-names: Mesut
+    - family-names: Melek
+      given-names: Negin
+  title: "Golden Distance: A New and Comprehensive Metric Definition Study
+    Facilitating Classification Performance Evaluations"
+  journal: "Iranian Journal of Science and Technology,
+    Transactions of Electrical Engineering"
+  year: 2025
+  doi: 10.1007/s40998-025-00870-x
